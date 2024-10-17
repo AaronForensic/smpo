@@ -1,0 +1,74 @@
+// **Group members profiles**   
+// Each profile consists of (1) avatar, (2) username, (3) personal description, (4) number of "likes" the profile will receive throughout the interaction
+	
+window.others = {
+  "posts" : [
+      {
+        "avatar": "avatars/others/george.png",
+        "username": "Jordan Smith",
+        "text": "Hey, my name is Jordan I’m a 19-year-old college student majoring in environmental science at VCU. This semester I'm taking introduction to psychology. I can relate my experience breaking up with my girlfriend of three months with the different attachment styles discussed in class. Because of parental neglect I got scared when they didn’t respond back to texts immediately. I tended to get jealous when she canceled plans with me to hang out with other friends. In the future I want to read these situations less negatively and express these concerns without getting into arguments. ",
+        "likes": [45000, 50000, 110000, 150000] //4
+      },
+      {
+        "avatar": "avatars/others/sarah.png",
+        "username": "Sarah Anderson",
+        "text": "Hi, I’m Sarah, I'm an 18-year-old psychology major taking Introduction to psychology at William and Mary. I can apply the chapter about anxiety in this class to my relationships and the actions I've made. After I broke up with my partner I learned to have more fun in my friend group. From that point I devoted less time to people who need constant emotional support. I have to prioritize myself and be an academic weapon haha. ", 
+        "likes": [20000, 21000] //2
+      },
+      {
+        "avatar": "avatars/others/john.png",
+        "username": "John Taylor",
+        "text": "Hi there, my name is John I'm a 22-year-old undecided major taking a psychology course at University of Richmond. In this class I learned how people with mental disorders need excessive support. At one point I wanted to be a counselor but I’m now realizing I may not have the social battery to listen to people’s problems all day. I get annoyed when people don't take my advice. Listening makes me feel nervous sometimes. ", 
+		    "likes": [20000, 21000] //2
+      },
+      {
+        "avatar": "avatars/others/anca.png",
+        "username": "Elijah Carson",
+        "text": "Hi my name is Elijah I am a Computer Science student at VCU taking introduction to psychology and this study for extra credit. In this class I enjoyed learning topics about health and obesity. Being judged for my appearance by friends sucks which is why I've been going to the gym every day. Knowing that they're other people who struggle with overeating because of self esteem makes me want to get diagnosed. ", 
+        "likes": [10000, 12000, 40000, 80000, 120000] //5
+      },
+      {
+        "avatar": "avatars/others/niki.png",
+        "username": "Nick Liley",
+        "text": "I'm Nick a 23 year old business major at Regent taking a psychology class. The topics in this class about therapy and religious faith can be applied to people with drug abuse problems. After my mother’s divorce she started turning to drugs and alcohol. No matter how many times I asked her to attend church she always said no and asked me for cigarette money right after. Classes like these give me hope that people can change their ways. ",  
+        "likes": [20000, 21000] //2
+      },
+      {
+        "avatar": "avatars/others/mary.png",
+        "username": "Mary Watson",
+        "text": "My name is Mary I'm 21 years old I'm taking developmental psychology because I'm a nursing major at Virginia Tech. I enjoyed learning about the attachment styles the most. This class made me reflect on situations in my dating life. Male friends get upset when I tell them I'm seeing someone. People shortly after meeting me develop a strong attachment while It takes more time for me to trust someone. ", 
+        "likes": [20000, 21000] //2
+      },
+      {
+        "avatar": "avatars/others/lauren.png",
+        "username": "Lauren Mitchell",
+        "text": "I’m Lauren, I'm 22 years old and I'm studying psychology to become a counselor. I'm taking Psychopathology which taught me about bipolar disorder. My Father was bipolar and had frequent mood swings which caused me to participate in hobbies like drinking and partying. I regret devoting so much of my time to short passionate relationships with immature men. Classes like these give me hope that men will seek help and learn to stop objectifying women. ",
+        "likes": [12000, 38000] //1
+      },
+          {
+        "avatar": "avatars/others/kim.png",
+        "username": "Kim Brown",
+        "text": "My name is Kim and I'm a 18 year old college freshmen with an undecided major. I'm excited about my psychology class and taking this survey to receive extra credit. I can relate to many of the topics discussed in this class. Particularly, I enjoy learning about personality because I access the compatibility of myself and my crushes. Before I reveal my feelings I do hours of research on MBTI types and horoscopes. ", 
+        "likes": [12000, 38000] //1 
+      },
+      {
+        "avatar": "avatars/others/arjen.png",
+        "username": "Arjen Rodriguez",
+        "text": "My name's Arjen, and I'm a 19 year old cybersecurity major going to University of Virginia. I'm taking a psychology class to meet requirements for my degree. I enjoyed learning about dark personalities in the dark triad theory. My last girlfriend was really narcisstic and only liked me because I worked a part time job and was able to buy her whatever she wanted. I'm interested in how women and men are fundamentally different species and have very different needs. ",
+        "likes": [12000, 40000, 120000] //3
+      },
+      {
+        "avatar": "avatars/others/heather.png",
+        "username": "Heather Murphy",
+        "text": "I'm Heather and I'm a 25 year old psychology major going to William and Mary. I'm taking Social Psychology and participating in this SONA extra credit study to raise my grade. This semester I've been busy rejecting friends who have been interested in me. I value my independence so studying interpersonal relationships helped me realize how romantic feelings make me uncomfortable. Typically I start to avoid friends who have confessed their feelings to me. ",
+        "likes": [13000,42000,53000,80000,92000] //5
+      },
+      {
+        "avatar": "avatars/others/jane.png",
+        "username": "Jane Davis",
+        "text": "Dear all, my name is Jane and I'm a 29 year old going back to school to obtain a career as a school counselor. I'm taking a psychology course which discusses gender roles in relationships. As an adolescent I was considered a tomboy but as I got older, I started to form relationships with both sexes more often. Some teenagers have trouble making friends with the opposite sex. To improve well-being  I want to ensure that students are comfortable in their relationships at school. ",
+        "likes": [20000, 21000] //2
+      },
+    
+    ]
+  };
